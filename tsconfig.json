@@ -1,6 +1,5 @@
 {
 	"comilerOptions": {
 		"sourceMap": true
-	},
-	"file": ["hello.ts"]
+	}
 }
