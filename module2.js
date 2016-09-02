@@ -13,5 +13,5 @@ var objType;
             return this.h * this.w;
         }
     };
-    console.log('rect area = ' + rectangle.calcArea());
+    console.log('Rect Area = ' + rectangle.calcArea());
 })(objType || (objType = {}));

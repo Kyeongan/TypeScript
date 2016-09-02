@@ -16,6 +16,6 @@ module objType {
 		}
 	};
 
-	console.log('rect area = ' + rectangle.calcArea())
+	console.log('Rect Area = ' + rectangle.calcArea())
 
 }
