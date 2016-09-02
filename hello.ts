@@ -3,7 +3,7 @@ function greet(msg:string) {
 }
 
 function greetingPeople(msg:string) {
-	console.log(msg + " Great!");
+	console.log(msg + " Great!!");
 }
 
 greet("Windows 10");

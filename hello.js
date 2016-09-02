@@ -2,7 +2,7 @@ function greet(msg) {
     console.log(msg);
 }
 function greetingPeople(msg) {
-    console.log(msg + " Great!");
+    console.log(msg + " Great!!");
 }
 greet("Windows 10");
 greetingPeople("Karl!");
@@ -17,7 +17,7 @@ var Car = (function () {
         alert("Engine Stoped: " + this.engine);
     };
     return Car;
-})();
+}());
 window.onload = function () {
     var car = new Car('V8');
     car.start();
